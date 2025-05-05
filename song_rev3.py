@@ -25,7 +25,7 @@ def get_songs_by_artists(artists, client_id, client_secret, num_songs=5):
             break
     return songs
 
-# Replace with your actual credentials and desired year
+
 client_id = 'faaee62665df4b2580ec95ce3d08e2a5'
 client_secret = '4aa2dca94f01440abd33079036fdd098'
 year = random.randint(1950, 2025)

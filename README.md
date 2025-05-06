@@ -25,4 +25,6 @@ This video was helpful in using the tools above to implement them into my code
 
 // Claude Ai
 https://claude.ai/
-I did use AI for helping me figure out how to 
+I did use AI for helping me figure out how to help with the final artist output you see after
+the random 5 songs. I find claude more helpful than most other AI because it allows you to give suggestions and critique errors in your code and privide suggestions. the definitions
+used to pull and random songs and suggest similar artists pulled influence from its suggestions wich I tested and later implemented.

@@ -21,7 +21,7 @@ have the proper credentials to access the algorithm tools.
 
 // API and Import Setup
 https://www.youtube.com/watch?v=2if5xSaZJlg
-This video was helpful in using the tools above to implement them into my code
+This video was helpful in using the tools above to implement them into my code to draw random songs using Spotify
 
 // Claude Ai
 https://claude.ai/
